@@ -1,0 +1,6 @@
+JOB LEAD ANALYSIS REPORT
+========================
+
+Total Jobs Found: 100
+Python Related Jobs: 10
+Recommended Jobs: 23

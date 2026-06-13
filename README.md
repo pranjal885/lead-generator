@@ -81,3 +81,17 @@ Contains project statistics and analysis results.
 - Resume matching
 - Email lead extraction
 - Real-time job monitoring
+
+## Screenshots
+
+### Analysis Results - Part 1
+
+![Analysis Part 1](screenshots/analysis_output_1.png)
+
+### Analysis Results - Part 2
+
+![Analysis Part 2](screenshots/analysis_output_2.png)
+
+### Recommended Jobs CSV Output
+
+![CSV Output](screenshots/csv_output.png)

@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Python-based lead generation and web scraping tool that automatically collects job opportunities, stores them in CSV format, performs data analysis, and recommends relevant positions based on skill keywords.
+This project is a Python-based lead generation and web scraping tool that automatically collects job opportunities, stores them in CSV format, performs data analysis, and recommends relevant positions based on skill keywords. Basic text vectorization using Scikit-Learn was used to demonstrate introductory machine learning concepts for job analysis.
 
 ## Features
 

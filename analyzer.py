@@ -67,3 +67,12 @@ with open("output/summary_report.txt", "w") as file:
     )
 
 print("\nSummary report generated.")
+
+from sklearn.feature_extraction.text import CountVectorizer
+
+vectorizer = CountVectorizer()
+
+job_vectors = vectorizer.fit_transform(df["Job Title"])
+
+print("Feature Matrix Shape:")
+print(job_vectors.shape)
